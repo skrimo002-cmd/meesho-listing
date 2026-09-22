@@ -1,0 +1,6 @@
+{
+  "name": "Meesho Listing Optimizer",
+  "description": "Expert E-Commerce Listing Optimizer for Meesho clothing items with algorithmic title formula, Helium 10 style upgrowing keywords, custom density modes, and rule customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
